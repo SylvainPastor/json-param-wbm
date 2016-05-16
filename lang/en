@@ -1,0 +1,24 @@
+index_option=Transmission option
+index_parameter=Parameter
+index_none=None parameter is set.
+index_add=Add a new parameter.
+index_return=Parameter list
+index_name=Name
+index_value=Value
+index_enabled=Enabled
+
+edit_title=Edit parameter
+create_title=Create parameter
+edit_header=Parameter details
+edit_name=Name
+edit_value=Value
+
+save_err=Failed to save parameter
+save_egone=Parameter "$1" not found
+save_ename=Missing or invalid parameter name
+save_evalue=Missing or invalid parameter value
+
+button_header=Restart server
+restart_button=Restart
+rescan_button=Rescan
+apply_button=Apply
